@@ -1,0 +1,23 @@
+{
+  "name": "arcade",
+  "version": "1.0.0",
+  "description": "Arcade is an experimental mini Game Zone with two games - Tic Tac Toe & Sudoku.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhanfuad35/arcade.git"
+  },
+  "author": "Farhan Fuad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhanfuad35/arcade/issues"
+  },
+  "homepage": "https://github.com/farhanfuad35/arcade#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.2.0"
+  }
+}

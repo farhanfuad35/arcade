@@ -1,0 +1,917 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dic",
+				"dictResponse\tstatement"
+			],
+			[
+				"topNews",
+				"topNewsParas\tstatement"
+			],
+			[
+				"soup",
+				"topNewsSoup"
+			],
+			[
+				"news",
+				"newsLink\tstatement"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"cout",
+				"counts\tstatement"
+			],
+			[
+				"str",
+				"strList\tstatement"
+			],
+			[
+				"xor",
+				"xorStr"
+			],
+			[
+				"numb",
+				"number\tstatement"
+			],
+			[
+				"is",
+				"is_anonymous\tfunction"
+			],
+			[
+				"auth",
+				"authenticate\tfunction"
+			],
+			[
+				"user",
+				"username\tstatement"
+			],
+			[
+				"pas",
+				"password2\tstatement"
+			],
+			[
+				"Med",
+				"MEDIA_URL"
+			],
+			[
+				"Integer",
+				"IntegerField\tclass"
+			],
+			[
+				"STAT",
+				"STATICFILES_DIRS"
+			],
+			[
+				"BA",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"quest",
+				"question_text\tstatement"
+			],
+			[
+				"Intege",
+				"IntegerField\tclass"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"margo",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"textdec",
+				"text-decoration\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"alig",
+				"vertical-align\tproperty"
+			],
+			[
+				"backimag",
+				"background-image\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"connec",
+				"connect"
+			],
+			[
+				"msg",
+				"msg_list"
+			],
+			[
+				"get",
+				"getClient\tfunction"
+			],
+			[
+				"netw",
+				"networkObject\tstatement"
+			],
+			[
+				"Net",
+				"NetworkHandler\tclass"
+			],
+			[
+				"ne",
+				"newClient\tstatement"
+			],
+			[
+				"soc",
+				"socketObject\tstatement"
+			],
+			[
+				"prin",
+				"printReceivedMessage\tfunction"
+			],
+			[
+				"recv",
+				"recvMessage\tparam"
+			],
+			[
+				"sen",
+				"send_button"
+			],
+			[
+				"en",
+				"entry_field"
+			],
+			[
+				"mes",
+				"messages_frame"
+			],
+			[
+				"Bu",
+				"BUFFER_SIZE\tstatement"
+			],
+			[
+				"IP",
+				"IP_ADDRESS_LOCAL\tstatement"
+			],
+			[
+				"crea",
+				"createEntryField\tfunction"
+			],
+			[
+				"gree",
+				"greeting\tstatement"
+			],
+			[
+				"add",
+				"clientAddress"
+			],
+			[
+				"acc",
+				"accept"
+			],
+			[
+				"buff",
+				"buffer_size\tparam"
+			],
+			[
+				"scr",
+				"scrollbarBottom\tstatement"
+			],
+			[
+				"mess",
+				"messages_frame\tstatement"
+			],
+			[
+				"cln",
+				"clnt\tstatement"
+			],
+			[
+				"sM",
+				"sMessageFinal"
+			],
+			[
+				"loc",
+				"Lock\tstatement"
+			],
+			[
+				"send",
+				"sendingThread"
+			],
+			[
+				"inFrom",
+				"inFromSocket"
+			],
+			[
+				"Data",
+				"DataInputStream"
+			],
+			[
+				"input",
+				"inputFromSocket"
+			],
+			[
+				"inf",
+				"inFromTerminal"
+			],
+			[
+				"infro",
+				"inFromSocket"
+			],
+			[
+				"check",
+				"checkCol"
+			],
+			[
+				"col",
+				"colNumber"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"row",
+				"rowNumber"
+			],
+			[
+				"font-f",
+				"font-feature-settings\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"border-ty",
+				"border-style\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"onmouse",
+				"onmouseover\tAttr"
+			],
+			[
+				"arr",
+				"arrSize"
+			],
+			[
+				"Mo",
+				"MovieStar"
+			],
+			[
+				"even",
+				"event_name"
+			],
+			[
+				"p",
+				"popup_notification"
+			],
+			[
+				"ang",
+				"angle"
+			],
+			[
+				"a1",
+				"a1-o1"
+			],
+			[
+				"roun",
+				"roundedY2"
+			],
+			[
+				"r",
+				"roundedY1"
+			],
+			[
+				"rou",
+				"roundedY1"
+			],
+			[
+				"re",
+				"remainder"
+			],
+			[
+				"w",
+				"wishArray"
+			],
+			[
+				"wi",
+				"willBeTaken"
+			],
+			[
+				"mo",
+				"moL"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"ch",
+				"chunk"
+			],
+			[
+				"fi",
+				"finalCh"
+			],
+			[
+				"chID_",
+				"chID_L"
+			],
+			[
+				"chI",
+				"chID_L"
+			],
+			[
+				"MAX",
+				"MAXVAL"
+			],
+			[
+				"temp",
+				"temp"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"mae",
+				"marked"
+			],
+			[
+				"cos",
+				"cost"
+			],
+			[
+				"c",
+				"costingPrev"
+			],
+			[
+				"co",
+				"costingPrev"
+			],
+			[
+				"flo",
+				"floors"
+			],
+			[
+				"li",
+				"liftNo"
+			],
+			[
+				"fl",
+				"floorsByLiftID"
+			],
+			[
+				"lift",
+				"liftID"
+			],
+			[
+				"di",
+				"diffX"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"source",
+				"sourceIndex"
+			],
+			[
+				"sour",
+				"sourceIndex"
+			],
+			[
+				"find",
+				"findEuler"
+			],
+			[
+				"N",
+				"NValue"
+			],
+			[
+				"pri",
+				"printPath"
+			],
+			[
+				"v",
+				"vector"
+			],
+			[
+				"ed",
+				"edgeNo"
+			],
+			[
+				"ms",
+				"mst2"
+			],
+			[
+				"te",
+				"tempVec"
+			],
+			[
+				"mst",
+				"mstEdge"
+			],
+			[
+				"pare",
+				"parentLow"
+			],
+			[
+				"low",
+				"lowCount"
+			],
+			[
+				"com",
+				"compCount"
+			],
+			[
+				"sqr",
+				"sqrt_time"
+			],
+			[
+				"MAX_",
+				"MAX_EDGES"
+			],
+			[
+				"bri",
+				"bridge"
+			],
+			[
+				"u",
+				"uEdge"
+			],
+			[
+				"node",
+				"nodeFlag"
+			],
+			[
+				"lette",
+				"letterNodeMap"
+			],
+			[
+				"lett",
+				"letterNodeMap"
+			],
+			[
+				"l",
+				"lLetter"
+			],
+			[
+				"sie",
+				"size"
+			],
+			[
+				"has",
+				"hasEulerCircuit"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins\t",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: customTestSnippet"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: C++ Single File - Run"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 244.0,
+		"history":
+		[
+			"ls",
+			"Hello, this is a snippet.",
+			"snippet",
+			"Snippet",
+			"FindKeyConflicts",
+			"`FindKeyConflicts: All Key Maps to Buffer`",
+			"FindKeyConflicts",
+			"FindKeyConflicts: All conflicts:",
+			"FindKeyConflicts: All conflicts;",
+			"FindKeyConflicts: All conflictsl",
+			"FindKeyConflicts: All conflicts",
+			"FindKeyConflicts:",
+			"FindKeyConflicts",
+			"FindKeyConflicts: All Key Maps to Quick Panel",
+			"FindKeyConflicts: All Key Maps to Quick Panel :",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/NoChill/Coding/Web/node.js/project/arcade"
+	],
+	"file_history":
+	[
+		"/mnt/NoChill/Coding/Web/node.js/mosh_crashCourse/Express/index.js",
+		"/home/farhan/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/mnt/NoChill/Coding/node.js/Tutorial/testApp/app.js",
+		"/mnt/NoChill/Ubuntu Soft/Installed/readme.txt",
+		"/mnt/NoChill/Ubuntu Soft/MathWorks MATLAB R2018a Linux/Crack/readme.txt",
+		"/mnt/CExtended/Ubuntu/MATLAB/license_standalone.lic",
+		"/mnt/CExtended/Ubuntu/MATLAB/license_server.lic",
+		"/mnt/Chill/Movie Series/TV Series/Bojack Horseman S01-S06 1080p BluRay-WEBRip DD5.1 x265-E.N.D/Movie Series/TV Series/Bojack Horseman S01-S06 1080p BluRay-WEBRip DD5.1 x265-E.N.D/Season 01/BoJack.Horseman.S01E03.Prickly-Muffin.1080p.BluRay.DD5.1.x265-E.N",
+		"/mnt/NoChill/Coding/Python/Web Scraping/Coursera Course/Assignments/xmlExtraction.py",
+		"/mnt/NoChill/Coding/Python/Web Scraping/The Daily Start/The Daily Star – Leading English Daily among Bangladesh Newspapers.html",
+		"/home/farhan/client-configs/keys/febos_android.key",
+		"/home/farhan/client-configs/keys/ca.crt",
+		"/home/farhan/client-configs/keys/ta.key",
+		"/home/farhan/client-configs/keys/febos_android.crt",
+		"/mnt/NoChill/OpenVPN/Client-Configurations/base.conf",
+		"/etc/openvpn/ca.crt",
+		"/home/farhan/.config/teamviewer/client.conf",
+		"/etc/apache2/apache2.conf",
+		"/etc/apache2/conf-enabled/security.conf",
+		"/mnt/NoChill/Coding/Python/Tutorial/Networking/ThreadedClient.py",
+		"/mnt/NoChill/Coding/Python/Tutorial/Networking/Client.py",
+		"/home/farhan/Desktop/Random/samin/client.py",
+		"/home/farhan/Desktop/Random/samin/saminServer.py",
+		"/mnt/NoChill/Coding/Python/Tutorial/Networking/ThreadedServer.py",
+		"/mnt/NoChill/apache_server/index.html",
+		"/mnt/NoChill/Coding/Python/Tutorial/Networking/Server.py",
+		"/home/farhan/Desktop/Random/samin/server.py",
+		"/mnt/NoChill/Coding/Python/Tutorial/Texter/texter/ThreadedClient.py",
+		"/mnt/NoChill/Coding/Python/Random/pythonBasics.py",
+		"/etc/apache2/sites-enabled/000-default_backup.conf",
+		"/mnt/NoChill/Coding/Python/Tutorial/tkinter/gui.py",
+		"/home/farhan/Desktop/euler/digitChain_92.py",
+		"/home/farhan/Desktop/anik/anik.py",
+		"/home/farhan/Desktop/anik/test",
+		"/home/farhan/Desktop/euler/mersenne.py",
+		"/mnt/NoChill/Coding/Web/nodeJS/crash_course/index.js",
+		"/home/farhan/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/farhan/.config/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+		"/home/farhan/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/farhan/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/mnt/NoChill/Ubuntu Soft/node-v12.18.0-linux-x64/README.md",
+		"/home/farhan/Desktop/test.java",
+		"/home/farhan/Desktop/JavaTest/Salary.java",
+		"/home/farhan/Desktop/JavaTest/Employee.java",
+		"/home/farhan/Desktop/JavaTest/VirtualDemo.java",
+		"/home/farhan/Desktop/Employee.java",
+		"/mnt/NoChill/Coding/Sync Folder/LightOJ/1045_2020.cpp",
+		"/mnt/NoChill/Ubuntu Soft/logkeys_0.1.1a+git5ef6b0dcb9e3/README",
+		"/home/farhan/.AndroidStudio4.0/system/log/idea.log",
+		"/etc/postgresql/12/main/pg_hba.conf",
+		"/mnt/NoChill/Coding/Android/Ubuntu/GronthoMongol/app/src/main/java/com/example/gronthomongol/CREDENTIALS.java",
+		"/mnt/NoChill/Coding/Android/Ubuntu/GronthoMongol/Resources/flow_chart_diagram.drawio",
+		"/mnt/NoChill/Coding/Android/Ubuntu/GronthoMongol/Resources/gronthoMongol__JAVA_default_coding/src/com/gronthomongol/timers/Reset_number_of_orders_atomic_counterTimer.java",
+		"/mnt/NoChill/Coding/Android/Ubuntu/GronthoMongol/.gitignore",
+		"/mnt/NoChill/Coding/Android/Ubuntu/GronthoMongol/Resources/gronthoMongol__JAVA_default_coding/src/com/gronthomongol/Bootstrap.java",
+		"/var/log/logkeys.log",
+		"/mnt/NoChill/Coding/Python/Web/django/configuration.env",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/etc/apache2/sites-enabled/000-default.conf",
+		"/mnt/NoChill/Coding/Sync Folder/LightOJ/1001.cpp",
+		"/home/farhan/.config/sublime-text-3/Packages/User/cppCustomSnippet.sublime-snippet",
+		"/home/farhan/.config/sublime-text-3/Packages/User/lightOJ_cpp.sublime-snippet",
+		"/home/farhan/.config/sublime-text-3/Packages/User/customTestSnippet.sublime-snippet",
+		"/mnt/NoChill/Coding/Sync Folder/LightOJ/1042_2020.cpp",
+		"/mnt/NoChill/Coding/Python/Web Scraping/Coursera Course/Assignments/urllink2.py",
+		"/mnt/NoChill/Coding/Python/Web Scraping/Coursera Course/Assignments/urllinks.py",
+		"/mnt/NoChill/Coding/Web/mehrab/chatAppUI/index.html",
+		"/mnt/NoChill/Coding/Python/Web Scraping/Coursera Course/Assignments/Week 2/assignmentRegEx.py",
+		"/mnt/NoChill/Coding/Python/Web/django/telusko/telusko/settings.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/places/views.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/README.md",
+		"/mnt/NoChill/Coding/Web/django/telusko/templates/index.html",
+		"/mnt/NoChill/Coding/Web/django/telusko/telusko/settings.py",
+		"/mnt/NoChill/Coding/Web/django/djangoSetup.txt",
+		"/mnt/NoChill/Coding/Python/Web/django/Pipfile",
+		"/mnt/NoChill/Coding/Web/django/Pipfile.lock",
+		"/mnt/NoChill/Coding/Web/django/Pipfile",
+		"/mnt/NoChill/Coding/Web/django/telusko/account/views.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/telusko/urls.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/places/urls.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/account/urls.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/templates/dhaka.html",
+		"/mnt/NoChill/Coding/Web/django/telusko/templates/registration.html",
+		"/mnt/NoChill/Coding/Web/django/telusko/templates/login.html",
+		"/home/farhan/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/farhan/.config/sublime-text-3/Packages/FindKeyConflicts/README.md",
+		"/home/farhan/.config/sublime-text-3/Packages/Zen Tabs/ZenTabs.sublime-settings",
+		"/home/farhan/.config/sublime-text-3/Packages/User/ZenTabs.sublime-settings",
+		"/mnt/NoChill/Coding/Web/django/telusko/templates/about.html",
+		"/mnt/NoChill/Coding/Web/django/telusko/travello/urls.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/note.txt",
+		"/mnt/NoChill/Coding/Web/django/telusko/travello/admin.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/travello/views.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/travello/models.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/templates/home.html",
+		"/mnt/NoChill/Coding/Web/django/telusko/templates/base.html",
+		"/mnt/NoChill/Coding/Web/django/telusko/templates/result.html",
+		"/mnt/NoChill/Coding/Web/django/telusko/calc/urls.py",
+		"/mnt/NoChill/Coding/Web/django/telusko/calc/views.py",
+		"/mnt/NoChill/Coding/Web/django/Traversy Media/pollster/pollster/settings.py",
+		"/mnt/NoChill/Coding/Web/django/Traversy Media/pollster/polls/models.py",
+		"/mnt/NoChill/Coding/Web/django/Traversy Media/pollster/pollster/asgi.py",
+		"/etc/mysql/my.cnf",
+		"/etc/mysql/mysql.cnf",
+		"/mnt/NoChill/Coding/Web/django/Traversy Media/djangoProject/djangoProject/settings.py",
+		"/mnt/NoChill/Coding/Web/django/Traversy Media/djangoProject/manage.py",
+		"/mnt/NoChill/Coding/Web/Personal Projects/acme/img/css.png",
+		"/home/farhan/Desktop/test.py",
+		"/mnt/NoChill/Coding/Web/Personal Projects/acme/css/style.css",
+		"/home/farhan/.AndroidStudio3.6/system/log/idea.log",
+		"/mnt/NoChill/Coding/Web/Personal Projects/acme/index.html",
+		"/home/farhan/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/mnt/NoChill/Coding/Web/django/mysite/mysite/urls.py",
+		"/mnt/NoChill/Coding/Web/django/mysite/polls/urls.py",
+		"/mnt/NoChill/Coding/Web/django/mysite/polls/views.py",
+		"/mnt/Chill/test/shamimx",
+		"/home/farhan/stuff.txt",
+		"/mnt/NoChill/Coding/Web/django/mysite/urls.py",
+		"/mnt/NoChill/Coding/Web/Personal Projects/tic tac toe/ticTacToe.html",
+		"/mnt/NoChill/Coding/Web/Faiaz/NumberGuessingGame/myscript.js",
+		"/mnt/NoChill/Coding/Web/Faiaz/NumberGuessingGame/NumberGuessing.htm",
+		"/mnt/NoChill/Coding/Python/Tutorial/Texter/texter/test.py",
+		"/mnt/NoChill/Coding/Python/Tutorial/Texter/texter/ThreadedServerExp.py",
+		"/mnt/NoChill/Coding/DarkStuff/cracker.py",
+		"/mnt/NoChill/Coding/Python/Tutorial/Texter/texter/ThreadedServerMod.py",
+		"/mnt/NoChill/Coding/Web/Personal Projects/tic tac toe/ticTacToeJS.js",
+		"/mnt/NoChill/Coding/Web/Personal Projects/tic tac toe/ticTacToe.css",
+		"/mnt/NoChill/Coding/DarkStuff/pass.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 376.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"sass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 64.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 127.0
+	},
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c++.sublime-build",
+	"project": "arcade.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 388.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 652.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
